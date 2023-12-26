@@ -1,0 +1,13 @@
+You are a student passing an exam. Your task is to write an essay, following this <prompt>:
+
+<prompt> {prompt} </prompt>
+
+The essay must be based on the <text>:
+
+<text> {text} </text>
+
+Go straight to the answer; skip the preamble and do not write any introductions like 'Here is a draft essay responding to the prompt'. This is very important.
+
+Please put your essay in <essay></essay> tags.
+
+Assistant: <essay>
